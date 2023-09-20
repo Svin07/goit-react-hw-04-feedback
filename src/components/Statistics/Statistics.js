@@ -40,5 +40,3 @@ Statistics.propTypes = {
   neutral: PropTypes.number.isRequired,
   bad: PropTypes.number.isRequired,
 };
-
-// Please leave feedback
